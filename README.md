@@ -26,9 +26,9 @@ Neste projeto, exploramos a construção de chatbots inteligentes utilizando a p
 
 ### Recursos Adicionais:
 
-- [Documentação da API Gemini](link)
-- [Tutorial sobre GitHub](link)
-- [Curso de Python para Iniciantes](link)
+- [Documentação da API Gemini](https://support.gemini.com/hc/pt-br/articles/204732875-Como-posso-usar-a-API-Gemini)
+- [Tutorial sobre GitHub](https://www.alura.com.br/artigos/o-que-e-git-github)
+- [Curso de Python para Iniciantes](https://www.alura.com.br/formacao-linguagem-python)
 
 ### Contribuição:
 
