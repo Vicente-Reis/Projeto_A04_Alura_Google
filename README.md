@@ -3,9 +3,11 @@
   <img src="https://github.com/Vicente-Reis/vr_imagens/blob/main/Alura_1920_1080_POS4.jpg" alt="Background Image" />
 </p>
 
-# Projeto_A04_Alura_Google 🤖
+# Projeto_A04_Alura_Google 🤖 
 
-## Criando Chatbots Inteligentes com a Gemini API: Aula 04 da Imersão Alura Google
+## Aula 4: Criando seu próprio chatbot com a Gemini API no Google Colab
+
+## Criando Chatbots Inteligentes com a Gemini API
 
 Neste projeto, exploramos a construção de chatbots inteligentes utilizando a poderosa API Gemini e o ambiente colaborativo do Google Colab. Durante a aula, aprendemos a integrar a Gemini API em nosso projeto, processar linguagem natural e criar um chatbot funcional capaz de gerar respostas inteligentes.
 
