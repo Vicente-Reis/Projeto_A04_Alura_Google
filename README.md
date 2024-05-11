@@ -1,3 +1,7 @@
+<!-- Background Image -->
+<p align="center">
+  <img src="https://github.com/Vicente-Reis/vr_imagens/blob/main/Alura_1920_1080_POS4.jpg" alt="Background Image" />
+</p>
 # Projeto_A04_Alura_Google 🤖
 
 ## Criando Chatbots Inteligentes com a Gemini API: Aula 04 da Imersão Alura Google
